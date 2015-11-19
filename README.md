@@ -1,2 +1,30 @@
 # p8dl
-PICO-8 cartridge downloader
+[PICO-8](http://www.lexaloffle.com/pico-8.php) cartridge downloader
+
+This should work on Windows, OS X and Linux.
+
+
+
+## installing
+
+Requires Python and pip!
+
+```
+pip install p8dl
+```
+
+## usage
+
+In your terminal:
+
+```
+p8dl 10022 # gets you Hug Army!
+```
+
+Then, in PICO-8:
+```
+> LOAD 10022
+LOADED 10022.P8.PNG (15258 CHARS
+)
+> RUN
+```
