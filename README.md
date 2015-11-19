@@ -9,9 +9,12 @@ This should work on Windows, OS X and Linux.
 
 Requires Python and pip!
 
+For installing it to the Python user install directory for your platform:
 ```
-pip install p8dl
+pip install --user p8dl
 ```
+
+If you want to install as root (not advised) or inside a virtualenv, you can drop the `--user` flag.
 
 ## usage
 
