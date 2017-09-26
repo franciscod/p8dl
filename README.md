@@ -21,7 +21,7 @@ If you want to install as root (not advised) or inside a virtualenv, you can dro
 In your terminal:
 
 ```
-p8dl 10022 # gets you Hug Army!
+p8dl 10022 # gets you Hug Arena!
 ```
 
 Then, in PICO-8:
